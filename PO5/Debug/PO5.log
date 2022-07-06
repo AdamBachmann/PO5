@@ -1,0 +1,10 @@
+﻿  BinFile.cpp
+D:\Programiki\C++\PO\Rozwiazania\PO5\BinFile.cpp(62,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  CsvFile.cpp
+D:\Programiki\C++\PO\Rozwiazania\PO5\CsvFile.cpp(62,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  FileFactory.cpp
+  PO5.cpp
+D:\Programiki\C++\PO\Rozwiazania\PO5\PO5.cpp(12,12): warning C4101: "wsk": lokalna zmienna, do której nie istnieje odwołanie
+  Point.cpp
+  Generowanie kodu...
+  PO5.vcxproj -> D:\Programiki\C++\PO\Rozwiazania\PO5\Debug\PO5.exe
